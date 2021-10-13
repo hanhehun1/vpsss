@@ -5508,7 +5508,7 @@ window.__require = function t(e, i, n) {
                 this.nodeInfo.active = t
             },
             telegram: function() {
-                cc.sys.openURL("https://telegram.me/HAVIPBot")
+                cc.sys.openURL("https://telegram.me/dcoddangcapbot")
             }
         }),
         cc._RF.pop()
@@ -8009,7 +8009,7 @@ window.__require = function t(e, i, n) {
                 cc.sys.openURL("https://mecvip/download/" + this.appApk)
             },
             telegram: function() {
-                cc.sys.openURL("https://telegram.me/HAVIPBot")
+                cc.sys.openURL("https://telegram.me/dcoddangcapbot")
             },
             hotro: function() {
                 cc.sys.openURL("https://www.tidio.com/talk/rv5zls5ofxtb95kxafjzgg5bz9aadlnx")
