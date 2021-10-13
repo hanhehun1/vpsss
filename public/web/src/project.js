@@ -842,7 +842,7 @@ window.__require = function t(e, i, n) {
             },
             _onSocketError: function(t) {},
             reconnect: function() {
-                this.connect("127.0.0.1", "/ws")
+                this.connect("137.184.141.237", "/ws")
             },
             init: function() {
                 this.initPrototype()
@@ -5237,8 +5237,8 @@ window.__require = function t(e, i, n) {
         "use strict";
         cc._RF.push(e, "05c18T81bpMJoySqeB29I5A", "Config"),
         e.exports = {
-            HOST: "http://127.0.0.1:8080",
-            SOCKET: "ws://127.0.0.1:8080"
+            HOST: "http://137.184.141.237:8080",
+            SOCKET: "ws://137.184.141.237:8080"
         },
         cc._RF.pop()
     }

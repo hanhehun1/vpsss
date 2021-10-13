@@ -1,6 +1,6 @@
 
 module.exports = {
-	'url': 'http://137.184.141.237:27017',
+	'url': 'mongodb://localhost:27017',
 	'options': {
 		//'user':   'root',
 		//'pass':   '',
